@@ -11,3 +11,4 @@ You know the routine. Just for bioinformatics.
 - [Biopython](https://biopython.org)
 - [BioRuby](http://bioruby.org)
 - [rust-bio](http://rust-bio.github.io)
+- [BioSQL](https://biosql.org)
